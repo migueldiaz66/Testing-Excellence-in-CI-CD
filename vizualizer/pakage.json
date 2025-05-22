@@ -1,0 +1,22 @@
+{
+    "name": "testing-framework-visualizer",
+    "version": "1.0.0",
+    "description": "React components for generating testing framework infographics",
+    "main": "src/index.js",
+    "keywords": ["testing", "ci-cd", "infographics", "react", "canvas"],
+    "author": "Miguel Díaz Macedo",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-react": "^4.0.0",
+      "vite": "^4.0.0"
+    },
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    }
+  }
