@@ -32,46 +32,7 @@ npm install
 npm run dev
 ```
 
- Usage
 
-Open the application in your browser
-Choose your desired image type
-Customize content if needed
-Generate and download your image
-
-🔧 Customization
-Edit the testing data in src/data/testingData.js:
-javascriptexport const testingTypes = [
-  {
-    name: 'Your Test Type',
-    purpose: 'Description...',
-    tools: 'Tool1, Tool2',
-    // ... other fields
-  }
-];
-📸 Examples
-Show Image
-Show Image
-🤝 Contributing
-
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Open a Pull Request
-
-📄 License
-MIT License - see LICENSE file for details.
-👤 Author
-Miguel Díaz Macedo
-
-LinkedIn: migueldiazmacedo
-GitHub: @yourusername
-
-
-Here's the complete markdown with all missing sections:
-
-```markdown
 ## 📝 Usage
 
 1. Open the application in your browser
@@ -181,13 +142,5 @@ Software Testing Professional specializing in CI/CD pipeline optimization and co
 ⭐ **If you find this project helpful, please give it a star on GitHub!**
 
 📢 **Share your experience**: We'd love to hear how you're using this tool in your projects. Tag us on LinkedIn or open a discussion on GitHub!
-```
 
-**Complete sections now include:**
-- ✅ **Examples**: Detailed descriptions with image references
-- ✅ **Contributing**: Step-by-step guide with git commands and development guidelines
-- ✅ **License**: Full MIT license text with copyright notice
-- ✅ **Author**: Comprehensive contact information and bio
-- ✅ **Call-to-action**: Star request and sharing encouragement
 
-This gives your repository complete, professional documentation! 🚀
