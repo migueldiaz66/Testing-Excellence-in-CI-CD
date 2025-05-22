@@ -130,13 +130,12 @@ See [LICENSE](LICENSE) file for details.
 
 **Miguel Díaz Macedo**
 - 🔗 LinkedIn: [migueldiazmacedo](https://www.linkedin.com/in/migueldiazmacedo/)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 🐙 GitHub:
+- 📧 Email:
+- 🌐 Website: 
 
 ### About the Author
-Software Testing Professional specializing in CI/CD pipeline optimization and comprehensive testing strategies. Passionate about creating tools and frameworks that help development teams deliver high-quality software.
-
+Yet another dev 
 ---
 
 ⭐ **If you find this project helpful, please give it a star on GitHub!**
