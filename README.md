@@ -38,6 +38,6 @@ By using this cards infographic, organizations can optimize their CI/CD pipeline
 
 ---
 
-📊 **Additional Resources:** An Excel spreadsheet can be found on my GitHub repo for a matrix-oriented approach around this infographic.
+📊 **Additional Resources:** An Excel spreadsheet can be found [here](https://github.com/migueldiaz66/Testing-Excellence-in-CI-CD/blob/main/Testing%20Excellence%20in%20CICD%20A%20Practical%20Reference%20for%20Development%20Teams.xlsx) repo for a matrix-oriented approach around this infographic.
 
 🔗 **Connect:** [LinkedIn Profile](https://www.linkedin.com/in/migueldiazmacedo/)
